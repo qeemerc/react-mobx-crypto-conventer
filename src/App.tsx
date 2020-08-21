@@ -6,7 +6,10 @@ import Container from '@material-ui/core/Container'
 function App() {
   return (
     <div className='app'>
-      test
+      <CssBaseline />
+      <Container maxWidth='sm'>
+        test
+      </Container>
     </div>
   )
 }
