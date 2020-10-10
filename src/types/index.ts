@@ -1,4 +1,4 @@
-export type TCoin = {
+export type TCurrency = {
   name: string
   fullName: string
   imageUrl: string
